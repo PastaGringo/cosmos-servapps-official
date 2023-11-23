@@ -1,0 +1,9 @@
+{
+    "name": "rflood",
+    "longDescription": "<p>rflood</p>",
+    "description": "rflood",
+    "tags": ["development", "repository management", "code collaboration", "issue tracking", "self-hosted"],
+    "repository": "https://hotio.dev/containers/rflood",
+    "image": "ghcr.io/hotio/rflood",
+    "supported_architectures": ["amd64", "arm64"]
+}
